@@ -40,7 +40,7 @@ const NavTop: NextPage = () => {
             <a href="https://www.instagram.com/mr_sd_sanket/" className="cursor-pointer">
               <FaInstagram />
             </a>
-            <a href="https://twitter.com/dare2solve" className="cursor-pointer">
+            <a href="#" className="cursor-pointer">
               <FaTwitter />
             </a>
             <a href="https://github.com/sanket404" className="cursor-pointer">
